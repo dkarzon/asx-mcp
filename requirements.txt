@@ -1,0 +1,6 @@
+fastmcp>=4.2,<5
+yfinance>=1.8,<2
+pandas>=2.2
+requests>=2.31.0
+pypdf>=6,<8
+tenacity>=9.0,<10
